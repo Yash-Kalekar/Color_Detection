@@ -1,0 +1,5 @@
+pip install opencv-python numpy pandas
+
+
+python color_detection.py -i <add your image path here>
+
